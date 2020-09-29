@@ -1,0 +1,8 @@
+{
+	"name": "EvolVR Breathing",
+	"description": "Aura attchables for EvolVR members.",
+	"author": "Alan Chao",
+	"license": "MIT",
+	"repositoryUrl": "",
+	"optionalPermissions": ["user-interaction"]
+}
